@@ -15,13 +15,13 @@ Thank you!
 ![image](https://user-images.githubusercontent.com/118621709/215868948-b967209b-0ba9-41cd-bfee-cee605ee011c.png)
 - ```this is how i have loaded my extension to chrome :``` ![image](https://user-images.githubusercontent.com/118621709/215869096-76ac95ed-ad7b-455e-9cbc-dac7a4493ce1.png)
 Every time i click on this csm Jokes extension it will show me new msg's : ![image](https://user-images.githubusercontent.com/118621709/215869236-d04046fc-5f84-4fdf-9ea7-9ad0f19cb80d.png)
-here is some clicks: ![image](https://user-images.githubusercontent.com/118621709/215869305-0376ae79-389e-4caf-b863-764eddfce800.png)
+- ```here is some clicks: ```![image](https://user-images.githubusercontent.com/118621709/215869305-0376ae79-389e-4caf-b863-764eddfce800.png)
 ![image](https://user-images.githubusercontent.com/118621709/215869346-4a35b75c-576f-4f8c-9b56-d4ed372b1afa.png)
 ![image](https://user-images.githubusercontent.com/118621709/215869371-b8c48930-4c52-44a1-8702-58218cf4ee8b.png)
 ![image](https://user-images.githubusercontent.com/118621709/215869408-c849c487-57e4-475e-8bee-25753480c4b5.png)
 
-i have also pushed my code to this repository;
+- ```i have also pushed my code to this repository;```
 ![image](https://user-images.githubusercontent.com/118621709/215870927-83ff3a47-64a1-42a7-9e90-0238c7e03aad.png)
 
 
-```Thank you! so much........!💚```
+# ```Thank you! so much........!💚```
