@@ -4,7 +4,7 @@
 - On your computer, open Chrome. At the top right, click More tools. then choose Extensions.
 - Make your changes: Turn on/off: Turn the extension on or off.
 
-- ###In this project i have created a web extension with the help of simple popup.html and manifest.json and used fetch api to fetch data for my extension
+- ##In this project i have created a web extension with the help of simple popup.html and manifest.json and used fetch api to fetch data for my extension
 and also styled the extension with the help of css : so yes! this extension is completed and it's ready to be deployed;
 
 - It's completed fully i have added screenshots here as well 
