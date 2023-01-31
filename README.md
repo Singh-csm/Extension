@@ -1,9 +1,10 @@
 # Extension 💚
-```a extension is created by me for chrome ```
+
+### a extension is created by me for chrome
 ```On your computer, open Chrome. At the top right, click More tools. then choose Extensions.```
 ```Make your changes: Turn on/off: Turn the extension on or off.``
 ```-----------------------------------------------------------------------------------```
-```In this project i have created a web extension with the help of simple popup.html and manifest.json and used fetch api to fetch data for my extension
+```yaml In this project i have created a web extension with the help of simple popup.html and manifest.json and used fetch api to fetch data for my extension
 and also styled the extension with the help of css : so yes! this extension is completed and it's ready to be deployed;```
 
 ```it's completed fully i have added screenshots here as well 
@@ -20,5 +21,7 @@ here is some clicks: ![image](https://user-images.githubusercontent.com/11862170
 ![image](https://user-images.githubusercontent.com/118621709/215869408-c849c487-57e4-475e-8bee-25753480c4b5.png)```
 
 i have also pushed my code to this repository;
+![image](https://user-images.githubusercontent.com/118621709/215870927-83ff3a47-64a1-42a7-9e90-0238c7e03aad.png)
+
 
 ```Thank you! so much........!💚```
