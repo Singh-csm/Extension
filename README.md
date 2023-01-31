@@ -3,13 +3,13 @@
 ## a extension is created by me for chrome
 - On your computer, open Chrome. At the top right, click More tools. then choose Extensions.
 - Make your changes: Turn on/off: Turn the extension on or off.
-```-----------------------------------------------------------------------------------```
-``` In this project i have created a web extension with the help of simple popup.html and manifest.json and used fetch api to fetch data for my extension
-and also styled the extension with the help of css : so yes! this extension is completed and it's ready to be deployed;```
+`-----------------------------------------------------------------------------------`
+ In this project i have created a web extension with the help of simple popup.html and manifest.json and used fetch api to fetch data for my extension
+and also styled the extension with the help of css : so yes! this extension is completed and it's ready to be deployed;
 
-```it's completed fully i have added screenshots here as well 
+it's completed fully i have added screenshots here as well 
 for publishing this extension publically we need to create a dveloper account and pay 5$ fee to chrome web for publically publishing this so as of now i have not publically published this but for sure after i got placed i will be able to publish this..........so considering this please check my screenshots or in case if you not understand anything feel free to ask me : i will explain everything about this extension how to create it from scratch;
-Thank you!```
+Thank you!
 
 some of the screenshots of my work: 
 ![image](https://user-images.githubusercontent.com/118621709/215868948-b967209b-0ba9-41cd-bfee-cee605ee011c.png)
